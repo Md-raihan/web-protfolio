@@ -1,0 +1,75 @@
+body{
+
+    font-family: 'Signika Negative', sans-serif;
+    margin: 0px;
+   margin-block-end: 2%;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.name-highlight{
+
+    color: dodgerblue;
+}
+.frame{
+    width: 42%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%;
+
+    
+
+}
+.frame img{
+    width: 100%;
+   
+}
+.back{
+
+    background-image: url(images/top.png);
+     background-repeat: no-repeat;
+     height: 500px;
+
+}
+.section{
+    height: 500px;
+
+}
+.f-button{
+
+    text-decoration: none;
+   background-image: linear-gradient(#008cff,rgb(142, 219, 250));
+   padding: 10px 20px;
+   border: 5px;
+   color:white;
+   font-weight: 700;
+
+
+}
+.background-img{
+
+    background-image: url(images/dream-bg.png);
+
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 500px;
+
+}
+.Expert-list{
+
+box-shadow: 10px 10px 40px gray;
+border-radius: 3%;
+height: 80%;
+}
+
+.experience{
+
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    
+    background-position:left;
+}
